@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="FileSystemImportWizard">
-		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
-		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
-		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
-			<item value="C:\Users\jhlee\Desktop"/>
-			<item value="/home/mijoy0909/workspace/runtime-CSS.product/BOY Examples/widgets/images"/>
-		</list>
-	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="8" key="DIALOG_Y_ORIGIN"/>
-		<item value="8" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+		<item value="70" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="EditorSelectionDialog">
+		<item value="true" key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL"/>
 	</section>
 	<section name="NewWizardAction">
 		<item value="org.csstudio.opibuilder.wizards.newOPIWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
@@ -20,16 +15,31 @@
 	</section>
 	<section name="ShowViewDialog">
 		<item value="374" key="DIALOG_WIDTH"/>
-		<item value="286" key="DIALOG_Y_ORIGIN"/>
-		<item value="459" key="DIALOG_HEIGHT"/>
-		<item value="774" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Cantarell|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="459" key="DIALOG_HEIGHT"/>
+		<item value="286" key="DIALOG_Y_ORIGIN"/>
+		<item value="774" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="ImportExportAction">
 		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
 			<item value="org.csstudio.opibuilder.examples.BOYcategory"/>
+		</list>
+	</section>
+	<section name="FileExtensionDialogSettings">
+		<item value="613" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="281" key="DIALOG_HEIGHT"/>
+		<item value="161" key="DIALOG_X_ORIGIN"/>
+		<item value="337" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\jhlee\Desktop"/>
+			<item value="/home/mijoy0909/workspace/runtime-CSS.product/BOY Examples/widgets/images"/>
 		</list>
 	</section>
 </section>

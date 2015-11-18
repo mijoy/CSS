@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="auto_complete_history">
-		<list key="PV">
-			<item value="*"/>
-		</list>
 		<list key="Formula">
 			<item value="CTRL-ENV:PI003:DUST"/>
 			<item value="CTRL-ENV:PI003:HUM"/>
@@ -88,6 +85,16 @@
 			<item value="mijoy0909Host:xerox_state.VAL"/>
 			<item value="mijoy0909Host:xerox_width5"/>
 			<item value="mijoy0909Host:xerox_toner_"/>
+		</list>
+		<list key="PV">
+			<item value="CTRL-ENV:PI002:DUST"/>
+			<item value="CTRL-ENV:PI003:DUST"/>
+			<item value="CTRL-ENV:PI003:HUM"/>
+			<item value="CTRL-ENV:PI003:TEM"/>
+			<item value="CTRL-ENV:PI002:HUM"/>
+			<item value="CTRL-ENV:PI004:HUM"/>
+			<item value="CTRL-ENV:PI002:TEM"/>
+			<item value="*"/>
 		</list>
 	</section>
 </section>
